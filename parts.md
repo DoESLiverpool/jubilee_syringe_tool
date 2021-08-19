@@ -5,7 +5,7 @@
 * [ ] M3 Set Screw, 4mm len
 * [ ] M3 Tapered Heat Set Insert
 * [ ] M3 8mm Threaded Tool Balls
-* [x] LDO-42STH25-1404MAC Nema 17 Stepper Motor
+* [ ] LDO-42STH25-1404MAC Nema 17 Stepper Motor
 * [x] Existing JK-42HS34-1334A 7 Stepper Motor as alternative?
 * [ ] Wedge Plate
 * [ ] 16-T 2GT Drive Pulley for 6mm belt
